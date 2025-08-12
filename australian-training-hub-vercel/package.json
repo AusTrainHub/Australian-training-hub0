@@ -1,0 +1,16 @@
+{
+  "name": "australian-training-hub",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.11.2",
+    "framer-motion": "^10.12.16"
+  }
+}
